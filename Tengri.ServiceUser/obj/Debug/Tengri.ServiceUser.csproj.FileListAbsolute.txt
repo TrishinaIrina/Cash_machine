@@ -1,0 +1,12 @@
+C:\Users\irish\My documents\C#\Tengri.ServiceUser\bin\Debug\Tengri.ServiceUser.dll
+C:\Users\irish\My documents\C#\Tengri.ServiceUser\bin\Debug\Tengri.ServiceUser.pdb
+C:\Users\irish\My documents\C#\Tengri.ServiceUser\obj\Debug\Tengri.ServiceUser.csprojAssemblyReference.cache
+C:\Users\irish\My documents\C#\Tengri.ServiceUser\obj\Debug\Tengri.ServiceUser.csproj.CoreCompileInputs.cache
+C:\Users\irish\My documents\C#\Tengri.ServiceUser\obj\Debug\Tengri.ServiceUser.dll
+C:\Users\irish\My documents\C#\Tengri.ServiceUser\obj\Debug\Tengri.ServiceUser.pdb
+C:\Users\irish\My documents\C#\Tengri.ServiceUser\bin\Debug\Tengri.DAL.dll
+C:\Users\irish\My documents\C#\Tengri.ServiceUser\bin\Debug\LiteDB.dll
+C:\Users\irish\My documents\C#\Tengri.ServiceUser\bin\Debug\Tengri.DAL.pdb
+C:\Users\irish\My documents\C#\Tengri.ServiceUser\bin\Debug\Tengri.DAL.dll.config
+C:\Users\irish\My documents\C#\Tengri.ServiceUser\bin\Debug\LiteDB.xml
+C:\Users\irish\My documents\C#\Tengri.ServiceUser\obj\Debug\Tengri.ServiceUser.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\irish\My documents\C#\Tengri.OnlineApp\bin\Debug\Tengri.OnlineApp.exe.config
+C:\Users\irish\My documents\C#\Tengri.OnlineApp\bin\Debug\Tengri.OnlineApp.exe
+C:\Users\irish\My documents\C#\Tengri.OnlineApp\bin\Debug\Tengri.OnlineApp.pdb
+C:\Users\irish\My documents\C#\Tengri.OnlineApp\bin\Debug\LiteDB.dll
+C:\Users\irish\My documents\C#\Tengri.OnlineApp\bin\Debug\log4net.dll
+C:\Users\irish\My documents\C#\Tengri.OnlineApp\bin\Debug\LiteDB.xml
+C:\Users\irish\My documents\C#\Tengri.OnlineApp\bin\Debug\log4net.xml
+C:\Users\irish\My documents\C#\Tengri.OnlineApp\obj\Debug\Tengri.OnlineApp.csproj.CoreCompileInputs.cache
+C:\Users\irish\My documents\C#\Tengri.OnlineApp\obj\Debug\Tengri.OnlineApp.csproj.CopyComplete
+C:\Users\irish\My documents\C#\Tengri.OnlineApp\obj\Debug\Tengri.OnlineApp.exe
+C:\Users\irish\My documents\C#\Tengri.OnlineApp\obj\Debug\Tengri.OnlineApp.pdb
+C:\Users\irish\My documents\C#\Tengri.OnlineApp\obj\Debug\Tengri.OnlineApp.csprojAssemblyReference.cache
